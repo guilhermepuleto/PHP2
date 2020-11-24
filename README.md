@@ -5,6 +5,7 @@ Descrição = Realizei os cursos de PHP da alura e postei os códigos sobre as a
 
 Status = Finalizado.
 
-Ferramenta = PhpStorm
+Ferramenta = VScode
+
 
 Autor = Guilherme Puleto.
